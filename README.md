@@ -1,6 +1,8 @@
 # TestSimioFactory1: SimioProjectFactory instance not working
 
-## ISSUE: When the code is compiled it throws the following error: ##
+This repositiory has all the files for doing a simple command -- setting the SetExtensionsPath.
+
+** However, it throws the following error: **
 
 ```
 System.TypeInitializationException
@@ -19,3 +21,5 @@ Inner Exception 1:
 NullReferenceException: Object reference not set to an instance of an object.
 ```
 ---
+
+What is the issue?  Comments and suggestions welcome!
