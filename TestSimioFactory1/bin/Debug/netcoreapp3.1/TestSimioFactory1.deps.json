@@ -1,0 +1,156 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TestSimioFactory1/1.0.0": {
+        "dependencies": {
+          "SimioDLL": "12.205.20430.0"
+        },
+        "runtime": {
+          "TestSimioFactory1.dll": {}
+        }
+      },
+      "SimioDLL/12.205.20430.0": {
+        "runtime": {
+          "SimioDLL.dll": {
+            "assemblyVersion": "12.205.20430.0",
+            "fileVersion": "12.205.20430.0"
+          }
+        }
+      },
+      "SimioAPI.Extensions/12.205.20430.0": {
+        "runtime": {
+          "SimioAPI.Extensions.dll": {
+            "assemblyVersion": "12.205.20430.0",
+            "fileVersion": "12.205.20430.0"
+          }
+        }
+      },
+      "SimioAPI/12.205.20430.0": {
+        "runtime": {
+          "SimioAPI.dll": {
+            "assemblyVersion": "12.205.20430.0",
+            "fileVersion": "12.205.20430.0"
+          }
+        }
+      },
+      "SimioEnums/12.205.20430.0": {
+        "runtime": {
+          "SimioEnums.dll": {
+            "assemblyVersion": "12.205.20430.0",
+            "fileVersion": "12.205.20430.0"
+          }
+        }
+      },
+      "SimioTypes/12.205.20430.0": {
+        "runtime": {
+          "SimioTypes.dll": {
+            "assemblyVersion": "12.205.20430.0",
+            "fileVersion": "12.205.20430.0"
+          }
+        }
+      },
+      "SimioReplicationRunnerContracts/12.205.20430.0": {
+        "runtime": {
+          "SimioReplicationRunnerContracts.dll": {
+            "assemblyVersion": "12.205.20430.0",
+            "fileVersion": "12.205.20430.0"
+          }
+        }
+      },
+      "MathNet.Numerics/4.5.1.0": {
+        "runtime": {
+          "MathNet.Numerics.dll": {
+            "assemblyVersion": "4.5.1.0",
+            "fileVersion": "4.5.1.0"
+          }
+        }
+      },
+      "ServiceModelEx/1.0.0.0": {
+        "runtime": {
+          "ServiceModelEx.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "QlmLicenseLib/12.1.20063.7": {
+        "runtime": {
+          "QlmLicenseLib.dll": {
+            "assemblyVersion": "12.1.20063.7",
+            "fileVersion": "12.1.20063.7"
+          }
+        }
+      },
+      "SimioAPI.Graphics/12.205.20430.0": {
+        "runtime": {
+          "SimioAPI.Graphics.dll": {
+            "assemblyVersion": "12.205.20430.0",
+            "fileVersion": "12.205.20430.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestSimioFactory1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimioDLL/12.205.20430.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimioAPI.Extensions/12.205.20430.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimioAPI/12.205.20430.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimioEnums/12.205.20430.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimioTypes/12.205.20430.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimioReplicationRunnerContracts/12.205.20430.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathNet.Numerics/4.5.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServiceModelEx/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QlmLicenseLib/12.1.20063.7": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimioAPI.Graphics/12.205.20430.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
